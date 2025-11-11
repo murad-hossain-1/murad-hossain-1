@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murad-hossain1&show_icons=true&locale=en" alt="murad-hossain1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad-hossain1&" alt="murad-hossain1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad-hossain1&show_icons=true&locale=en" alt="murad-hossain1" /></p>
