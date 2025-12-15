@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGvFZRTW9fWBA/profile-displaybackgroundimage-shrink_350_1400/B56Zo3sp3rHAAk-/0/1761871045571?e=1764201600&v=beta&t=8cP_Q2gw1UZU9WpV21UlQoUDIKVdYjktKTr212jxTNE">
+<img src="https://i.ibb.co.com/G4djtMM8/Linked-In-Cover-Photo-1.png">
 <!-- <h1 align="center">Hi 👋, I'm Md Murad Hossain</h1> -->
 <h3 align="center">Professional Full-Stack Web Expert & WordPress Pro | Supporting to establish their dream Businesses and Functional Websites successfully | I’m very excited and enjoy helping them to achieve their own target goals.</h3>
 
