@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGvFZRTW9fWBA/profile-displaybackgroundimage-shrink_350_1400/B56Zo3sp3rHAAk-/0/1761871045571?e=1767225600&v=beta&t=BM0EqqF6OVHx-J1A5e6LcIMXF7N0OLn_EtkdBed6K6M">
+<img src="">
 <!-- <h1 align="center">Hi 👋, I'm Md Murad Hossain</h1> -->
 <h3 align="center">Professional Full-Stack Web Expert & WordPress Pro | Supporting to establish their dream Businesses and Functional Websites successfully | I’m very excited and enjoy helping them to achieve their own target goals.</h3>
 
