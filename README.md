@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Web Design Development & WordPress Development](#project-link)
 
-- 👨‍💻 All of my projects are available at [https://github.com/murad-hossain1/](https://github.com/murad-hossain1/)
+- 👨‍💻 All of my projects are available at [https://github.com/murad-hossain1/](https://github.com/murad-hossain-1/)
 
 - 📝 I regularly write articles on [#blog-link](#blog-link)
 
