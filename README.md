@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/G4djtMM8/Linked-In-Cover-Photo-1.png">
 <!-- <h1 align="center">Hi 👋, I'm Md Murad Hossain</h1> -->
-<h3 align="center">Professional Full-Stack Web Expert & WordPress Pro | Supporting to establish their dream Businesses and Functional Websites successfully | I’m very excited and enjoy helping them to achieve their own target goals.</h3>
+<h3 align="center">Professional Full-Stack Web Developer & WordPress Expert | Supporting to establish their dream Businesses and Functional Websites successfully | I’m very excited and enjoy helping them to achieve their own target goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad-hossain1&label=Profile%20views&color=0e75b6&style=flat" alt="murad-hossain1" /> </p>
 
